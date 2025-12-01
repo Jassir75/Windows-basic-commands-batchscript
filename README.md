@@ -4,7 +4,6 @@ Ex08-Windows-basic-commands-batchscript
 # AIM:
 To execute Windows basic commands and batch scripting
 
-# DESIGN STEPS:
 
 ### Step 1:
 
@@ -16,6 +15,7 @@ Write the Windows commands / batch file
 Save each script in a file with a .bat extension.
 Ensure you have the necessary permissions to perform the operations.
 Adapt paths as needed based on your system configuration.
+# DESIGN STEPS:
 ### Step 3:
 
 Execute the necessary commands/batch file for the desired output. 
@@ -48,6 +48,7 @@ cd %userprofile%\Desktop\MyLab
 
 
 type nul > MyFile.txt
+
 ![3_myfile](https://github.com/user-attachments/assets/264f09a9-9ab1-4319-8ffb-087580360d88)
 
 
